@@ -54,17 +54,7 @@
 
 
 
-<div align="center">
 
-  <!-- آمارهای گیت‌هاب با نشان‌های پایدار و تم صورتی -->
-  <a href="https://github.com/MaryamRahmanii?tab=repositories">
-    <img src="https://img.shields.io/github/repos/MaryamRahmanii?label=Repositories&style=for-the-badge&color=FF1493&logo=github&logoColor=white" alt="Repos" />
-  </a>
-  <a href="https://github.com/MaryamRahmanii">
-    <img src="https://img.shields.io/github/stars/MaryamRahmanii?label=Total%20Stars&style=for-the-badge&color=FF69B4&logo=github&logoColor=white" alt="Stars" />
-  </a>
-  
-</div>
 <br>
 
 <!-- کارت جدید: نمایش میزان پیوستگی و روزهای متوالی کدنویسی با تم صورتی -->
