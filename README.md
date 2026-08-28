@@ -59,17 +59,17 @@
 <!-- استفاده از جدول برای قرار دادن آمار و زبان‌ها در کنار هم -->
 | آمار گیت‌هاب | زبان‌های پرکاربرد |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=MaryamRahmani&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=444444&bg_color=FFF0F5&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamRahmani&layout=donut&title_color=FF1493&text_color=444444&bg_color=FFF0F5&hide_border=true" height="170" alt="Top Languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=MaryamRahmanii&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=444444&bg_color=FFF0F5&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamRahmanii&layout=donut&title_color=FF1493&text_color=444444&bg_color=FFF0F5&hide_border=true" height="170" alt="Top Languages" /> |
 
 <br>
 
 <!-- کارت جدید: نمایش میزان پیوستگی و روزهای متوالی کدنویسی با تم صورتی -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamRahmani&theme=radical&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakNum=444444&sideNums=444444&currStreakLabel=FF1493&sideLabels=FF1493&dates=FF69B4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamRahmanii&theme=radical&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakNum=444444&sideNums=444444&currStreakLabel=FF1493&sideLabels=FF1493&dates=FF69B4" alt="GitHub Streak" />
 
 <br><br>
 
 <!-- انیمیشن مار -->
-<img src="https://raw.githubusercontent.com/MaryamRahmani/MaryamRahmani/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/MaryamRahmanii/MaryamRahmanii/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 
 </div>
 
