@@ -25,7 +25,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2" width="100%" alt="pink divider" />
 
-###مهارت‌ها و تکنولوژی‌ها:
 
 <div align="center">
 
@@ -58,7 +57,6 @@
 
 
 <details>
-<summary><b>نمایش محل قرارگیری پروژه‌ها (به زودی...)</b></summary>
 
 *   [ ] سیستم چت‌بات هوشمند سازمانی (RAG based)
 *   [ ] API بک‌اند بهینه‌سازی شده با FastAPI برای تحلیل متن
