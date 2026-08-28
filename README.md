@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=مریم%20رحمانی&fontSize=40&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=Maryam%20Rahmani&fontSize=40&fontAlignY=35&fontColor=ffffff" />
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=450&lines=Backend+Developer;AI+%26+LLM+Enthusiast;Computer+Engineering+Student)](https://git.io/typing-svg)
 </div>
 
-### 👩‍💻 درباره من:
+### 👩‍💻 درباره ی من:
 * 🎓 دانشجوی سال آخر مهندسی کامپیوتر در **دانشگاه صنعتی نوشیروانی بابل**.
 * 💼 تجربه گذراندن دوره کارآموزی توسعه نرم‌افزار در شرکت **جادوی فکر** (ساری).
 * 🤖 تمرکز اصلی من روی توسعه بک‌اند و ساخت سیستم‌های هوشمند است.
@@ -32,12 +32,9 @@
 
 ---
 
-### 🚀 پروژه‌های شاخص:
-*(به زودی پروژه‌های جذابم در حوزه هوش مصنوعی و توسعه بک‌اند را اینجا اضافه می‌کنم!)*
 
 ---
 
-### 📊 آمار فعالیت‌های گیت‌هاب من:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaryamRahmani&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=444444&bg_color=FFF0F5&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamRahmani&layout=compact&title_color=FF1493&text_color=444444&bg_color=FFF0F5&hide_border=true" height="165" alt="Top Languages" />
@@ -45,7 +42,6 @@
 
 ---
 
-### 🐍 انیمیشن گراف کامیت‌ها:
 <div align="center">
   <img src="https://raw.githubusercontent.com/MaryamRahmani/MaryamRahmani/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
