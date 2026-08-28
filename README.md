@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,FF1493,FFB6C1&height=180&section=header&text=Maryam%20Rahmani&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 
 <!-- شمارنده بازدیدکنندگان پروفایل -->
-<img src="https://komarev.com/ghpvc/?username=MaryamRahmani&color=FF1493&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=MaryamRahmanii&color=FF1493&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 <br>
 
 <!-- تایپ متحرک با تم صورتی پررنگ -->
@@ -52,10 +52,8 @@
 
 <br>
 
-
-
-
-<br>
+<!-- شروع بخش وسط‌چین برای استریک و مار -->
+<div align="center">
 
 <!-- کارت جدید: نمایش میزان پیوستگی و روزهای متوالی کدنویسی با تم صورتی -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamRahmanii&theme=radical&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakNum=444444&sideNums=444444&currStreakLabel=FF1493&sideLabels=FF1493&dates=FF69B4" alt="GitHub Streak" />
@@ -66,6 +64,7 @@
 <img src="https://raw.githubusercontent.com/MaryamRahmanii/MaryamRahmanii/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 
 </div>
+<!-- پایان بخش وسط‌چین -->
 
 <br>
 
