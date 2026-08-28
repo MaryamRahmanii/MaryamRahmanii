@@ -52,19 +52,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2" width="100%" alt="pink divider" />
-
-
-
-
-*   [ ] سیستم چت‌بات هوشمند سازمانی (RAG based)
-*   [ ] API بک‌اند بهینه‌سازی شده با FastAPI برای تحلیل متن
-
-</details>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2" width="100%" alt="pink divider" />
 
 
 <div align="center">
