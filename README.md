@@ -56,9 +56,17 @@
 
 <div align="center">
 
-<div align="center">
-  <!-- گراف فعالیت‌های ۳۱ روز گذشته با تم صورتی -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamRahmanii&bg_color=FFF0F5&color=FF1493&line=FF69B4&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
+  <!-- آمارهای گیت‌هاب با نشان‌های پایدار و تم صورتی -->
+  <a href="https://github.com/یوزرنیم_شما?tab=repositories">
+    <img src="https://img.shields.io/github/repos/MaryamRahmanii?label=Repositories&style=for-the-badge&color=FF1493&logo=github&logoColor=white" alt="Repos" />
+  </a>
+  <a href="https://github.com/یوزرنیم_شما">
+    <img src="https://img.shields.io/github/stars/MaryamRahmanii?label=Total%20Stars&style=for-the-badge&color=FF69B4&logo=github&logoColor=white" alt="Stars" />
+  </a>
+  <a href="https://github.com/یوزرنیم_شما?tab=followers">
+    <img src="https://img.shields.io/github/followers/MaryamRahmanii?label=Followers&style=for-the-badge&color=C71585&logo=github&logoColor=white" alt="Followers" />
+  </a>
+
 </div>
 <br>
 
