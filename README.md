@@ -59,7 +59,7 @@
 <!-- استفاده از جدول برای قرار دادن آمار و زبان‌ها در کنار هم -->
 | آمار گیت‌هاب | زبان‌های پرکاربرد |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=MaryamRahmanii&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=444444&bg_color=FFF0F5&hide_border=true&hide_rank=true" height="170" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamRahmanii&layout=donut&title_color=FF1493&text_color=444444&bg_color=FFF0F5&hide_border=true" height="170" alt="Top Languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=MaryamRahmanii&show_icons=true&title_color=FF1493&icon_color=FF69B4&text_color=444444&bg_color=FFF0F5&hide_border=true&hide_rank=true&v=1" height="170" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamRahmanii&layout=donut&title_color=FF1493&text_color=444444&bg_color=FFF0F5&hide_border=true&v=1" height="170" alt="Top Languages" /> |
 
 <br>
 
