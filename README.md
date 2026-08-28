@@ -64,7 +64,7 @@
 <br>
 
 <!-- کارت جدید: نمایش میزان پیوستگی و روزهای متوالی کدنویسی با تم صورتی -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamRahmanii&theme=radical&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakNum=444444&sideNums=444444&currStreakLabel=FF1493&sideLabels=FF1493&dates=FF69B4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamRahmani&theme=radical&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakNum=444444&sideNums=444444&currStreakLabel=FF1493&sideLabels=FF1493&dates=FF69B4" alt="GitHub Streak" />
 
 <br><br>
 
