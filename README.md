@@ -21,14 +21,13 @@
 * تجربه گذراندن دوره کارآموزی توسعه نرم‌افزار در شرکت **جادوی فکر** (ساری).
 * تمرکز اصلی من روی توسعه بک‌اند و ساخت سیستم‌های هوشمند است.
 * دارای گواهی‌نامه گذراندن **دوره پیشرفته LLM**. 
-  *(برای دیدن QR Code گواهی، روی کشویی زیر کلیک کنید 👇)*
 
 <details>
-<summary><b>📱 مشاهده QR Code گواهی پیشرفته LLM</b></summary>
+<summary><b>📱 مشاهده ی گواهی </b></summary>
 <br>
 <div align="center">
   <!-- در خط زیر، به جای لینک نمونه، لینک عکس QR Code که در ریپازیتوری خودت آپلود کردی را قرار بده -->
-  <img src="LLM certificate.png" width="220" alt="LLM Certificate QR Code" />
+  <img src="LLM certificate.jpg" width="220" alt="LLM Certificate QR Code" />
 </div>
 <br>
 </details>
